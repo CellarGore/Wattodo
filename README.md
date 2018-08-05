@@ -17,3 +17,5 @@ npm start
 This should lead to the following display at localhost:3000
 
 ![alt text](https://github.com/SalarUW/Wattodo/blob/master/project.png)
+
+One of the requirements that this project doesn't currently support is persistence. The todo tasks are not persisted to any datastore.
