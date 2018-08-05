@@ -16,4 +16,4 @@ npm start
 
 This should lead to the following display at localhost:3000
 
-![alt text]()
+![alt text](https://github.com/SalarUW/Wattodo/blob/master/project.png)
